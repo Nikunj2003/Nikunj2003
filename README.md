@@ -29,7 +29,7 @@ I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge be
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>  
   <!-- Front/Back End -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>  
+  <img src="./node-js-javascript-web-application-express-js-computer-software-others-70d9bb260ad29ba6d220b827803f918f.png" alt="Node.js" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/349363/flutter.svg" alt="Flutter" width="40" height="40"/> 
   <!-- DevOps & Cloud -->
