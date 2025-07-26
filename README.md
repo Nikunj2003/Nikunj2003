@@ -35,27 +35,25 @@ I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge be
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="AWS" width="40" height="40"/>
   <!-- Google Cloud Platform -->
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
   <!-- Swagger, Git, GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" width="40" height="40"/>
   <!-- Spring Boot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <!-- Kafka -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=128&id=fOhLNqGJsUbJ&format=png" alt="Kafka" width="40" height="40"/>
   <!-- RabbitMQ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
   <!-- LangChain -->
   <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" alt="LangChain" width="40" height="40"/>
   <!-- OpenAI -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/openai.svg" alt="OpenAI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="OpenAI" width="40" height="40"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n" width="40" height="40"/>
-
-
-</p>  
+</p> 
 
 ---
 
