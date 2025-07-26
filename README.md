@@ -1,7 +1,7 @@
 # > [Nikunj Khitha](https://www.nikunj.tech/Nikunj_Resume.pdf)  < | | > < [![GitHub Stars](https://img.shields.io/github/stars/Nikunj2003?style=social)](https://github.com/Nikunj2003/stargazers) >
 
 ![Banner-Image](./github-header-image.png)
-![Banner-Text](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=23599F&width=800&lines=Software+Developer+%7C+AI%2FML+%7C+DevOps+%7C+FullStack+%7C+Automation)
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=23599F&width=650&lines=Developement+%7C+AI%2FML+%7C+DevOps+%7C+FullStack+%7C+Automation)
 
 ## 👨‍💻 About Me
 
