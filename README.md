@@ -79,7 +79,7 @@ I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge be
 - 🌐 Website: [nikunj.tech](https://nikunj.tech)
 - 📄 Resume: [Nikunj](https://www.nikunj.tech/Nikunj_Resume.pdf)   
 - 📧 Email: njkhitha2003@gmail.com  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="19" height="19"/> Linkdin: [in/nikunj-khitha](https://www.linkedin.com/in/nikunj2003) 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="17" height="17"/> Linkdin: [in/nikunj-khitha](https://www.linkedin.com/in/nikunj2003) 
 
 > “Building software is like sculpting—each line of code chisels away complexity to reveal elegance.” – Nikunj Khitha
 
