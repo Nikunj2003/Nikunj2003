@@ -16,6 +16,9 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4493F8&center=true&vCenter=true&width=800&lines=Software+Development+Engineer;AI%2FML+%7C+DevOps+%7C+Full+Stack+%7C+Automation;Building+scalable%2C+intelligent+solutions;Turning+complex+ideas+into+elegant+code)](https://git.io/typing-svg)
 </div>
+
+---
+
 ## 👨‍💻 About Me
 
 I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge between AI, cloud-native systems, and full-stack applications. I thrive on deploying elegant code that transforms ideas into robust solutions—turning greenfield requirements into scalable products and automating what others consider “too complex.”
