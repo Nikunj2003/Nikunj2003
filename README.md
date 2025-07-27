@@ -1,7 +1,9 @@
 <div align="center">
   <h1>👋 Hi, I'm Nikunj Khitha</h1>
-  <h3>Software Development Engineer | AI/ML Enthusiast | DevOps Specialist</h3>
-  
+  <h3>Software Development Engineer | AI/ML Enthusiast | Full-Stack Specialist</h3>
+</div>
+
+<div align="center">
   [![Portfolio](https://img.shields.io/badge/Portfolio-nikunj.tech-blue?style=for-the-badge&logo=globe)
   [![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobe)](https://www.nikunj.tech/Nikunj_Resume.pdf)
   [![GitHub Stars](https://img.shields.io/github/stars/Nikunj2003?style=for-the-badge&logo=github)](https://github.com/Nikunj2003/stargazers)
@@ -85,10 +87,14 @@ I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge be
 
 ## 📫 Connect
 
-- 🌐 Website: [nikunj.tech](https://nikunj.tech)
-- 📄 Resume: [Nikunj](https://www.nikunj.tech/Nikunj_Resume.pdf)   
-- 📧 Email: njkhitha2003@gmail.com  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="17" height="17"/> Linkdin: [in/nikunj-khitha](https://www.linkedin.com/in/nikunj2003) 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nikunj.tech-blue?style=for-the-badge)](https://nikunj.tech)
+[![Email](https://img.shields.io/badge/📧_Email-njkhitha2003@gmail.com-red?style=for-the-badge)](mailto:njkhitha2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-nikunj--khitha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikunj2003)
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-Nikunj2003-black?style=for-the-badge&logo=github)](https://github.com/Nikunj2003)
+
+</div>
 
 > “Building software is like sculpting—each line of code chisels away complexity to reveal elegance.” – Nikunj Khitha
 
