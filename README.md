@@ -1,8 +1,17 @@
-# > [Nikunj Khitha](https://www.nikunj.tech/Nikunj_Resume.pdf)  < | | > < [![GitHub Stars](https://img.shields.io/github/stars/Nikunj2003?style=social)](https://github.com/Nikunj2003/stargazers) >
+<div align="center">
+  <h1>👋 Hi, I'm Nikunj Khitha</h1>
+  <h3>Software Development Engineer | AI/ML Enthusiast | DevOps Specialist</h3>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-nikunj.tech-blue?style=for-the-badge&logo=globe)
+  [![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobe)](https://www.nikunj.tech/Nikunj_Resume.pdf)
+  [![GitHub Stars](https://img.shields.io/github/stars/Nikunj2003?style=for-the-badge&logo=github)](https://github.com/Nikunj2003/stargazers)
+</div>
 
-![Banner-Image](./github-header-image.png)
-![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=4493F8&width=650&lines=Developement+%7C+AI%2FML+%7C+DevOps+%7C+FullStack+%7C+Automation)
-
+<div align="center">
+  <img src="./github-header-image.png" alt="Nikunj Khitha - Software Development Engineer" width="100%" />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4493F8&center=true&vCenter=true&width=800&lines=Software+Development+Engineer;AI%2FML+%7C+DevOps+%7C+Full+Stack+%7C+Automation;Building+scalable%2C+intelligent+solutions;Turning+complex+ideas+into+elegant+code)](https://git.io/typing-svg)
+</div>
 ## 👨‍💻 About Me
 
 I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge between AI, cloud-native systems, and full-stack applications. I thrive on deploying elegant code that transforms ideas into robust solutions—turning greenfield requirements into scalable products and automating what others consider “too complex.”
