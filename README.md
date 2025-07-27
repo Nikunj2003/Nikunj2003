@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Nikunj Khitha</h1>
+  <img src="./github-header-image.png" alt="Nikunj Khitha - Software Development Engineer" width="100%" />
   <h3>Software Development Engineer | AI/ML Enthusiast | DevOps Specialist</h3>
 </div>
 
@@ -12,8 +12,6 @@
 </div>
 
 <div align="center">
-  <img src="./github-header-image.png" alt="Nikunj Khitha - Software Development Engineer" width="100%" />
-  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4493F8&center=true&vCenter=true&width=800&lines=Software+Development+Engineer;AI%2FML+%7C+DevOps+%7C+Full+Stack+%7C+Automation;Building+scalable%2C+intelligent+solutions;Turning+complex+ideas+into+elegant+code)](https://git.io/typing-svg)
 </div>
 
