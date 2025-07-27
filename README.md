@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>>Nikunj Khitha<</h1>
+  <h1>|>Nikunj Khitha<|</h1>
   <h3>Software Development Engineer | AI/ML Enthusiast | DevOps Specialist</h3>
 </div>
 
