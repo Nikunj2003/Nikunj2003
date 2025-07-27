@@ -1,6 +1,9 @@
 <div align="center">
   <img src="./github-header-image.png" alt="Nikunj Khitha - Software Development Engineer" width="100%" />
-  <h3>Software Development Engineer | AI/ML Enthusiast | DevOps Specialist</h3>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4493F8&center=true&vCenter=true&width=800&lines=Software+Development+Engineer;AI%2FML+%7C+DevOps+%7C+Full+Stack+%7C+Automation;Building+scalable%2C+intelligent+solutions;Turning+complex+ideas+into+elegant+code"/>
 </div>
 
 <div align="center">
@@ -9,10 +12,6 @@
   [![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobe)](https://www.nikunj.tech/Nikunj_Resume.pdf)
   [![GitHub Stars](https://img.shields.io/github/stars/Nikunj2003?style=for-the-badge&logo=github)](https://github.com/Nikunj2003/stargazers)
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4493F8&center=true&vCenter=true&width=800&lines=Software+Development+Engineer;AI%2FML+%7C+DevOps+%7C+Full+Stack+%7C+Automation;Building+scalable%2C+intelligent+solutions;Turning+complex+ideas+into+elegant+code"/>
 </div>
 
 ---
