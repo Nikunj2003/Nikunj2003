@@ -1,9 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Nikunj Khitha</h1>
   <h3>Software Development Engineer | AI/ML Enthusiast | DevOps Specialist</h3>
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-nikunj.tech-blue?style=for-the-badge&logo=globe)
-
 </div>
 
 <div align="center">
