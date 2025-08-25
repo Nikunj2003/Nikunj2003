@@ -81,6 +81,7 @@ I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge be
 
 | Project                   | Description                                                                 | Link                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **My-Next-Js-Portfolio**   | My portfolio with a Agentic AI. | https://github.com/Nikunj2003/My-Next-Js-Portfolio                     |
 | **LLaMa-MCP-Streamlit**   | Interactive AI assistant using Streamlit, NVIDIA NIM & Ollama, centered on Model Control Protocol (MCP). | https://github.com/Nikunj2003/LLaMa-MCP-Streamlit                     |
 | **Resume-Fit-Codenex**    | AI-powered resume optimizer: semantic matching + NLP for targeted job-fit analysis.                      | https://github.com/Nikunj2003/Resume-Fit-Codenex                      |
 | **Jira-Standup-Report-API** | Automated Jira standup generator with AI-driven daily reports and insights.                             | https://github.com/Nikunj2003/Jira-Standup-Report-API                |
