@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nikunj.tech-blue?style=for-the-badge)](https://nikunj.tech)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nikunj-blue?style=for-the-badge)](https://nikunj.codenex.dev)
   [![Resume](https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobe)](https://www.nikunj.tech/Nikunj_Resume.pdf)
   [![GitHub Stars](https://img.shields.io/github/stars/Nikunj2003?style=for-the-badge&logo=github)](https://github.com/Nikunj2003/stargazers)
 
@@ -92,7 +92,7 @@ I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge be
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nikunj.tech-blue?style=for-the-badge)](https://nikunj.tech)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nikunj.tech-blue?style=for-the-badge)](https://nikunj.codenex.dev)
 [![Email](https://img.shields.io/badge/📧_Email-njkhitha2003@gmail.com-red?style=for-the-badge)](mailto:njkhitha2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-nikunj--khitha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikunj-khitha)
 
