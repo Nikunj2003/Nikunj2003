@@ -64,7 +64,7 @@ I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge be
   <!-- RabbitMQ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
   <!-- LangChain -->
-  <img src="./langchain-color.svg" alt="LangChain" width="40" height="40"/>
+  <img src="./langchain-color.svg" alt="LangChain" width="50" height="50"/>
   <!-- OpenAI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="OpenAI" width="40" height="40"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n" width="40" height="40"/>
