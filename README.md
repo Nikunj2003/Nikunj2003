@@ -29,50 +29,39 @@ I’m Nikunj Khitha a **Software Development Engineer** energizing the bridge be
 
 ---
 
-<div align="center">
-  <!-- Core Languages & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/><br/>
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/><br/>
-  <img src="./neo4j.png" alt="Neo4j" width="40" height="40"/><br/>
-  <!-- Front/Back End -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/><br/>
-  <img src="./nodejs.png" alt="Node.js" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/><br/>
-  <img src="https://www.svgrepo.com/show/349363/flutter.svg" alt="Flutter" width="40" height="40"/><br/>
-  <!-- DevOps & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/><br/>
-  <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="AWS" width="40" height="40"/><br/>
-  <!-- Google Cloud Platform -->
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/><br/>
-  <!-- Swagger, Git, GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/><br/>
-  <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" width="40" height="40"/><br/>
-  <!-- Spring Boot -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/><br/>
-  <!-- Kafka -->
-  <img src="https://img.icons8.com/?size=128&id=fOhLNqGJsUbJ&format=png" alt="Kafka" width="40" height="40"/><br/>
-  <!-- RabbitMQ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/><br/>
-  <!-- LangChain -->
-  <img src="./langchain-color.svg" alt="LangChain" width="50" height="50"/><br/>
-  <!-- OpenAI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="OpenAI" width="40" height="40"/><br/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n" width="40" height="40"/><br/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude" width="40" height="40"/><br/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/crewai-color.png" alt="Crew Ai" width="40" height="40"/><br/>
-  <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="MCP" width="40" height="40"/><br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/1024px-Google-gemini-icon.svg.png?20240826133250" alt="Gemini" width="40" height="40"/>
-</div>
+<table align="center">
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="./neo4j.png" alt="Neo4j" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="./nodejs.png" alt="Node.js" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://www.svgrepo.com/show/349363/flutter.svg" alt="Flutter" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://www.svgrepo.com/show/331300/aws.svg" alt="AWS" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://img.icons8.com/?size=128&id=fOhLNqGJsUbJ&format=png" alt="Kafka" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="./langchain-color.svg" alt="LangChain" width="50" height="50"/></td></tr>
+  <tr><td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="OpenAI" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/crewai-color.png" alt="Crew Ai" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="MCP" width="40" height="40"/></td></tr>
+  <tr><td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/1024px-Google-gemini-icon.svg.png?20240826133250" alt="Gemini" width="40" height="40"/></td></tr>
+</table>
 
 
 ---
